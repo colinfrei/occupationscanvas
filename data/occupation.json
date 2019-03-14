@@ -1,9 +1,0 @@
-{
- "name": "GCC",
- "children": [
-   {"name": "Internal IT", "ID": "1.1", "size":25},
-   {"name": "Bern", "ID": "1.2", "size":15},
-   {"name": "Zurich", "ID": "1.3", "size":60},
-   {"name": "Lausanne", "ID": "1.4", "size":35}
- ]
-}

@@ -1,0 +1,23 @@
+{
+  "name": "GCC",
+  "children": [
+    {
+      "name": "Finance",
+      "ID": "1",
+      "size": 100,
+      "percentageChargeable": 30
+    },
+    {
+      "name": "Internal IT",
+      "ID": "2",
+      "size": 300,
+      "percentageChargeable": 75
+    },
+    {
+      "name": "Marketing & Communication",
+      "ID": "3",
+      "size": 500,
+      "percentageChargeable": 0
+    }
+  ]
+}
